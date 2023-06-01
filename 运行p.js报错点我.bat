@@ -1,2 +1,2 @@
 npm install http -g
-npm install http-proxy -g
+npm install http-proxy

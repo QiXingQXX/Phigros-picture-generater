@@ -1,5 +1,5 @@
 # Phigros-picture-generate
-非常适合小白学习（
+非常适合小白学习（我也是）
 
 给Phigros存档生成图片使用的（yunzai-bot插件）
 

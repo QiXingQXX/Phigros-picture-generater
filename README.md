@@ -7,7 +7,9 @@
 
 1、下载完整压缩包并解压
 
-2、运行p-start.bat （如果报错运行"运行p.js报错点我.bat"）
+2、运行p-start.bat 
+（如果报错就自己查一下缺失的模块安装好）
+（或者直接运行 "运行p.js报错点我.bat"）
 
 3、然后把Phigros-picture-generate.js放到云崽单文件插件目录（Yunzai-Bot\plugins\example\）里即可
 

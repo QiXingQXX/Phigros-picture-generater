@@ -8,7 +8,5 @@
 运行p-start.bat （如果报错运行"运行p.js报错点我.bat"）
 
 然后把Phigros-picture-generate.js放到云崽单文件插件目录（Yunzai-Bot\plugins\example\）里即可
-
-
-
+————————————————————————————
 *token获取什么的这里无法描述*

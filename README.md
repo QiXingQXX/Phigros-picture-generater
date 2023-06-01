@@ -13,6 +13,6 @@
 
 ————————————————————————————
 
-如果想要一整个软件包而不是这种需要单独存放文件夹的可以到这个仓库[PhigrosLibrary-Plugin](https://github.com/Walkersifolia/PhigrosLibrary-Plugin)
+如果想要一整个软件包以及更多功能而不是这种需要单独存放文件夹的可以到这个仓库[PhigrosLibrary-Plugin](https://github.com/Walkersifolia/PhigrosLibrary-Plugin)
 
 *token获取什么的这里无法描述

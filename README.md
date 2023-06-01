@@ -10,4 +10,5 @@
 然后把Phigros-picture-generate.js放到云崽单文件插件目录（Yunzai-Bot\plugins\example\）里即可
 
 
-*token获取什么的这里无法描述
+
+*token获取什么的这里无法描述*
